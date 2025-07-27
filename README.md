@@ -11,7 +11,7 @@ This project is designed as a basic introduction to input/output operations, ari
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammed-soff21/SumOfMultiples.git
+   git clone https://github.com/mohammed-soff21/CountTheDigits.git
 2. Open the solution:
    - Launch Visual Studio
    - Open the CountTheDigits.sln file
@@ -20,16 +20,16 @@ This project is designed as a basic introduction to input/output operations, ari
 
 ## Features
 - Accepts an integer number from the user
-- prints sum of multiples of 3 or 5 to this number
-- Using logial OR operator
+- prints the number of digits the number contains
+- Using unconditional jump (goto)
 - Code is divided into reusable methods for better readability and structure
 - Written in clean and modern C# syntax
 
 ## Example
 ```text
 Enter an integer number:
-> 10
-The sum of multiples of 3 or 5 to 10 is: 33
+> 1446
+The number of digits is: 4
 ```
 ## Project Structure
 ```text
